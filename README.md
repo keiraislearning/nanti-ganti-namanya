@@ -1,4 +1,4 @@
-# nanti-ganti-namanya
+# Gas.in
 ### PBP D 07 
 - Aisyah Saajidah (2406435585)
 - Ananda Gautama Sekar Khosmana  (2406352613)
@@ -20,12 +20,7 @@ Platform ini menyediakan wadah bagi pengguna untuk berbagi pengalaman dan tips o
 
 ### Role User
 - Regular User
-  ini bla bla 
-  bla
-- Event Organizer
-  ini bla bla bla
-- Community Owner
-  ini bla bla bla
+- Admin
 
 ### Tautan 
 - Deployment
